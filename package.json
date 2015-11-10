@@ -1,0 +1,19 @@
+{
+  "name": "checked-polyfill",
+  "version": "1.0.0",
+  "description": "Adds a .checked class that behaves like the :checked pseudo-class. http://rdebeasi.github.io/checked-polyfill/",
+  "main": "checked-polyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ministryofjustice/checked-polyfill.git"
+  },
+  "author": "rdebasi and the MTP team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ministryofjustice/checked-polyfill/issues"
+  },
+  "homepage": "https://github.com/ministryofjustice/checked-polyfill#readme"
+}
